@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EA5DE60BC7C404AFC4708767ADBCA7B97A891361",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EA5DE60BC7C404AFC4708767ADBCA7B97A891361" : 0,
+    "FCBDBA52501C4432805C6F591F7B7793ACA75E5B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "41D253E0-8169-4EAF-A008-6283A3120E02",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EA5DE60BC7C404AFC4708767ADBCA7B97A891361" : "tableView\/",
+    "FCBDBA52501C4432805C6F591F7B7793ACA75E5B" : "tableView\/tableView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tableView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tableView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Andrey-kov\/tableView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EA5DE60BC7C404AFC4708767ADBCA7B97A891361"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Andrey-kov\/tableView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FCBDBA52501C4432805C6F591F7B7793ACA75E5B"
+    }
+  ]
+}
